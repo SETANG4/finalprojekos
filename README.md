@@ -4,4 +4,4 @@ dibawah ini adalah progres yang sudah saya lakukan :
 1. penginstallan ssh
 2. penginstallan mysql
 3. penginstallan nginX
-4. konfigurasi nginX
+4. konfigurasi nginX namun masih menemukan error pada tahap ini
