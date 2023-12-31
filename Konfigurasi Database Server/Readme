@@ -61,7 +61,7 @@ installation should now be secure.
 Thanks for using MariaDB!
 
 # connect to MariaDB
-root@majid-VirtualBox:~# mysql
+root@setang:~# mysql
 Welcome to the MariaDB monitor.  Commands end with ; or \g.
 Your MariaDB connection id is 31
 Server version: 10.6.12-MariaDB-0ubuntu0.22.04.1 Ubuntu 22.04
